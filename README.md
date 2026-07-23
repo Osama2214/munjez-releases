@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Osama2214/todo-app-munjez-v1.4/main/src-tauri/icons/icon.png" width="96" height="96" alt="Munjez Logo" />
-</p>
-
 <h1 align="center">Munjez Releases</h1>
 
 <p align="center">
