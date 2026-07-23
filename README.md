@@ -1,6 +1,12 @@
-# Munjez Releases
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Osama2214/todo-app-munjez-v1.4/main/src-tauri/icons/icon.png" width="96" height="96" alt="Munjez Logo" />
+</p>
 
-Welcome to the official releases repository for **Munjez**, a premium, cross-platform productivity and task management suite. This repository hosts compiled binaries, installers, and updater metadata for Windows, Linux, and Android.
+<h1 align="center">Munjez Releases</h1>
+
+<p align="center">
+  Welcome to the official releases repository for <b>Munjez</b>, a premium, cross-platform productivity and task management suite. This repository hosts compiled binaries, installers, and updater metadata for Windows, Linux, and Android.
+</p>
 
 ---
 
