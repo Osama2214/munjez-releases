@@ -8,7 +8,6 @@
 
 ## Quick Links
 * 🏠 [Official Website](https://munjez-website.vercel.app/)
-* 💻 [Source Code (Private Repository)](https://github.com/Osama2214/todo-app-munjez-v1.4)
 * 👨‍💻 [Developer Portfolio](https://osama-portfolio-six.vercel.app/)
 
 ---
